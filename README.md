@@ -18,11 +18,11 @@ I am passionate about building intelligent systems that bridge academic research
 Data Mining
 
 ## Technical Skills
-- Programming:** Python, Java, C++, SQL 
-- AI & ML:** TensorFlow, Scikit-learn, NLP, YOLOv8, Bayesian Modeling 
-- Data Engineering:** ETL Pipelines, Dagster, DVC, CI/CD 
-- Web Development:** React, Node.js, REST APIs ,html,CSS, JS,PHP
-- Analytics:** Power BI, Quantitative Analysis, Time Series Forecasting 
+- **Programming:** Python, Java, C++, SQL 
+- **AI & ML:** TensorFlow, Scikit-learn, NLP, YOLOv8, Bayesian Modeling 
+- **Data Engineering:** ETL Pipelines, Dagster, DVC, CI/CD 
+- **Web Development:** React, Node.js, REST APIs ,html,CSS, JS,PHP
+- **Analytics:** Power BI, Quantitative Analysis, Time Series Forecasting 
 
 ## Selected Projects
 - RAG-Powered Chatbot:** A customer feedback analysis tool for Fintech applications.
