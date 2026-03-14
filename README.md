@@ -32,9 +32,9 @@ Data Mining
 🏥 End-to-End data pipeline for medical business analytics 
 
 ## Publications
-📄 Crime Data Analysis and Prediction using Ensemble Learning – IEEE ICICCS 
-📄 Survey Paper on Crime Prediction using Ensemble Approach – IJPM 
-📄 Crime Detection using Hybrid Models for Crime Prevention in Amhara Region 
+- Crime Data Analysis and Prediction using Ensemble Learning – IEEE ICICCS 
+- Survey Paper on Crime Prediction using Ensemble Approach – IJPM 
+- Crime Detection using Hybrid Models for Crime Prevention in Amhara Region 
 
 ## Teaching Areas
 - Artificial Intelligence
