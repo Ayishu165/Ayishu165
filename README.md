@@ -18,24 +18,18 @@ I am passionate about building intelligent systems that bridge academic research
 Data Mining
 
 ## Technical Skills
-**Programming:** Python, Java, C++, SQL 
-**AI & ML:** TensorFlow, Scikit-learn, NLP, YOLOv8, Bayesian Modeling 
-**Data Engineering:** ETL Pipelines, Dagster, DVC, CI/CD 
-**Web Development:** React, Node.js, REST APIs ,html,CSS, JS,PHP
-**Analytics:** Power BI, Quantitative Analysis, Time Series Forecasting 
+- Programming:** Python, Java, C++, SQL 
+- AI & ML:** TensorFlow, Scikit-learn, NLP, YOLOv8, Bayesian Modeling 
+- Data Engineering:** ETL Pipelines, Dagster, DVC, CI/CD 
+- Web Development:** React, Node.js, REST APIs ,html,CSS, JS,PHP
+- Analytics:** Power BI, Quantitative Analysis, Time Series Forecasting 
 
 ## Selected Projects
--Time Series Forecasting for Portfolio Optimization (ARIMA & LSTM) 
--RAG-powered chatbot for FinTech customer feedback analysis 
--Credit risk prediction model for BNPL services 
--Amharic Named Entity Recognition for e-commerce data 
--End-to-End data pipeline for medical business analytics 
-
-### 📈 Featured Projects
 - RAG-Powered Chatbot:** A customer feedback analysis tool for Fintech applications.
 - Amharic Named Entity Recognition:** Extracting data from Telegram e-commerce chats.
 - Medical Data Pipeline:** An end-to-end orchestration using YOLOv8, dbt, and Dagster.
 - Portfolio Optimization:** Financial time series forecasting using ARIMA and LSTM.
+- Credit risk prediction model for BNPL services
 
 ## Publications
 - Crime Data Analysis and Prediction using Ensemble Learning – IEEE ICICCS 
