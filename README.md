@@ -1,10 +1,14 @@
 # Hi 👋 I'm Ayisheshim Almaw Bogale
-🎓 Lecturer |  Researcher, in Department of Information System, Collage of Engineering and Technology, Injebara University, Ethiopia 
+🎓 Lecturer |  Researcher,  Department of Information System, Collage of Engineering and Technology, Injebara University, Ethiopia 
 
 ## About Me
 I am a computer scientist and researcher with over 5 years of academic and research experience in Artificial Intelligence,Deep Learning, machine Learning, data mining, Data Science,LLM, RAG and Software Engineer. My research focuses on Natural Language Processing (NLP), Explainable AI,LLMS, Retrieval-Augmented Generation (RAG), and Knowledge Graphs, with a special interest in multilingual AI applications for FinTech and education.
-
 I am passionate about building intelligent systems that bridge academic research with real-world applications. I also actively supervise undergraduate research projects and contribute to curriculum development in modern computing technologies.
+
+### 🏫 Academic Background
+* **M.Tech in Computer Science & Engineering** | Symbiosis International University, India.
+* **B.Sc. in Information Technology** | Arba Minch University, Ethiopia.
+* **Lecturer** | Currently serving at Injebara University, Ethiopia.
 
 ## Research Interests
 - Natural Language Processing (NLP)
