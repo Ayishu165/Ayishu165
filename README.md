@@ -15,7 +15,7 @@ I am passionate about building intelligent systems that bridge academic research
 - Financial Data Analytics
 - Multilingual AI Systems
 - Machine Learning & Predictive Modeling
-Data Mining
+- Data Mining
 
 ## Technical Skills
 - **Programming:** Python, Java, C++, SQL 
@@ -46,10 +46,11 @@ Data Mining
 - Programming (C++, Java)
 - Database Systems
 - Web Programming
-Operating system
-Computer organization and archetecture
+- Operating system
+- Computer organization and archetecture
 
 ## Connect With Me
 📧 Email: ayishu165@gmail.com 
-🔗 LinkedIn: (Add your LinkedIn) 
-💻 GitHub: (Your GitHub profile)
+🔗 LinkedIn: https://www.linkedin.com/in/ay-education-37bb3b362 
+💻 GitHub: https://github.com/Ayishu165
+💻 Youtube: https://www.youtube.com/@ayeducation4830
