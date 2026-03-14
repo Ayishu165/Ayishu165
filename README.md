@@ -25,11 +25,11 @@ Data Mining
 **Analytics:** Power BI, Quantitative Analysis, Time Series Forecasting 
 
 ## Selected Projects
----Time Series Forecasting for Portfolio Optimization (ARIMA & LSTM) 
----RAG-powered chatbot for FinTech customer feedback analysis 
----Credit risk prediction model for BNPL services 
----Amharic Named Entity Recognition for e-commerce data 
----End-to-End data pipeline for medical business analytics 
+-Time Series Forecasting for Portfolio Optimization (ARIMA & LSTM) 
+-RAG-powered chatbot for FinTech customer feedback analysis 
+-Credit risk prediction model for BNPL services 
+-Amharic Named Entity Recognition for e-commerce data 
+-End-to-End data pipeline for medical business analytics 
 
 ## Publications
 - Crime Data Analysis and Prediction using Ensemble Learning – IEEE ICICCS 
