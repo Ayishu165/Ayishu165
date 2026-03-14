@@ -31,6 +31,12 @@ Data Mining
 -Amharic Named Entity Recognition for e-commerce data 
 -End-to-End data pipeline for medical business analytics 
 
+### 📈 Featured Projects
+**RAG-Powered Chatbot:** A customer feedback analysis tool for Fintech applications.
+**Amharic Named Entity Recognition:** Extracting data from Telegram e-commerce chats.
+**Medical Data Pipeline:** An end-to-end orchestration using YOLOv8, dbt, and Dagster.
+**Portfolio Optimization:** Financial time series forecasting using ARIMA and LSTM.
+
 ## Publications
 - Crime Data Analysis and Prediction using Ensemble Learning – IEEE ICICCS 
 - Survey Paper on Crime Prediction using Ensemble Approach – IJPM 
