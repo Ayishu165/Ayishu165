@@ -25,11 +25,11 @@ Data Mining
 - **Analytics:** Power BI, Quantitative Analysis, Time Series Forecasting 
 
 ## Selected Projects
-- RAG-Powered Chatbot:** A customer feedback analysis tool for Fintech applications.
-- Amharic Named Entity Recognition:** Extracting data from Telegram e-commerce chats.
-- Medical Data Pipeline:** An end-to-end orchestration using YOLOv8, dbt, and Dagster.
-- Portfolio Optimization:** Financial time series forecasting using ARIMA and LSTM.
-- Credit risk prediction model for BNPL services
+- **RAG-Powered Chatbot:** A customer feedback analysis tool for Fintech applications.
+- **Amharic Named Entity Recognition:** Extracting data from Telegram e-commerce chats.
+- **Medical Data Pipeline:** An end-to-end orchestration using YOLOv8, dbt, and Dagster.
+- **Portfolio Optimization:** Financial time series forecasting using ARIMA and LSTM.
+- **Credit risk prediction model for BNPL services**
 
 ## Publications
 - Crime Data Analysis and Prediction using Ensemble Learning – IEEE ICICCS 
